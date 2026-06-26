@@ -1,1 +1,0 @@
-Replace images and music placeholders with your own assets.
