@@ -1,0 +1,1 @@
+const s=new Date('2023-10-17');document.getElementById('counter').innerHTML=Math.floor((new Date()-s)/86400000)+' Days Together ❤️';

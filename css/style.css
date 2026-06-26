@@ -1,0 +1,5 @@
+body{margin:0;font-family:Arial;background:linear-gradient(#ff7aa2,#fff5f8);color:#fff}
+nav{position:fixed;top:0;width:100%;padding:15px;background:rgba(255,77,121,.9);display:flex;justify-content:space-between}
+nav a{color:#fff;margin:10px;text-decoration:none}.hero{height:100vh;background:url('../images/photo1.jpeg') center/cover;display:flex;align-items:center;justify-content:center}
+.overlay{background:rgba(255,255,255,.2);backdrop-filter:blur(10px);padding:40px;border-radius:20px;text-align:center}
+h2{text-align:center;color:#ff4d79}.gallery{display:grid;grid-template-columns:repeat(auto-fit,minmax(250px,1fr));gap:15px;padding:20px}.gallery img{width:100%;height:320px;object-fit:cover;border-radius:15px}.card{background:#fff;color:#333;margin:30px;padding:30px;border-radius:20px}
